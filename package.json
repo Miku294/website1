@@ -1,0 +1,20 @@
+{
+  "name": "grub-jb-portfolio",
+  "version": "1.0.0",
+  "description": "Modern portfolio website for Grub JB community",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "portfolio",
+    "community",
+    "grub-jb"
+  ],
+  "author": "Grub JB Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
